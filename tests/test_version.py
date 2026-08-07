@@ -1,6 +1,6 @@
 from wcv.core.version import (
-    ReleaseStage,
     VERSION,
+    ReleaseStage,
     Version,
     __version__,
 )
